@@ -20,6 +20,8 @@ Branches will make it easy to manage work.
 
 How do the diagrams help you visualize the branch structure?
 
+It made easy to which commit can be accessed from where.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
