@@ -25,5 +25,8 @@ It made easy to which commit can be accessed from where.
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+The code that is present in both files is definitely added. Because we can
+access both branches from one source.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
