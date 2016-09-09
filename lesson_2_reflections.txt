@@ -30,3 +30,6 @@ access both branches from one source.
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pros- It is faster.
+Cons- It might give compiler errors.
