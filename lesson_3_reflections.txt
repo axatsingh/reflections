@@ -11,7 +11,8 @@ So that I don't pull unnecessary commits.
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    Fill in your answer here
+Forks are only on github. Clones are cloning the repository on local storage.
+Branches are creating separate sets of commits.
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
